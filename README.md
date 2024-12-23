@@ -46,6 +46,8 @@ This repository contains the implementation, feature extraction modules, and all
 - **`cross_validation.py`:** Handles k-fold cross-validation for robust evaluation.
 - **`feat_extractor.py`:** Contains methods for extracting audio features using a pre-trained CNN.
 - **`extractor.py`:** Defines the CNN architecture and feature extraction layer.
+- **`network_architecture.py`:** Implements the CNN architecture used for environmental sound classification.
+
 
 ## Results
 The model achieved significant performance improvements on the ESC-50 dataset, with state-of-the-art accuracy when using data augmentation and cross-validation.
