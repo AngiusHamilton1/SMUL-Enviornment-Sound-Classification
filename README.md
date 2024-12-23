@@ -18,8 +18,8 @@ This repository contains the implementation, feature extraction modules, and all
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone (https://github.com/AngiusHamilton1/SMUL-Enviornment-Sound-Classification.git)
+   cd weak_feature_extractor
    ```
 
 2. Install the dependencies:
@@ -33,7 +33,7 @@ This repository contains the implementation, feature extraction modules, and all
 
 1. Run the main pipeline:
    ```bash
-   python main_pipeline.py
+   python main.py
    ```
    During execution, you will be prompted to enable data augmentation and cross-validation.
 
